@@ -21,8 +21,8 @@ ref: https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-pyt
 
 ### Input & Annotated Image
 
-<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="50%" width="50%" ></a>
-<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="49%" width="49%" ></a>
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="49%" width="49%" ></a>
 
 ### Class `YoloV3`
 
