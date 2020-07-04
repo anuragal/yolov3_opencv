@@ -24,6 +24,8 @@ ref: https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-pyt
 <a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="49%" width="49%" ></a>
 <a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="49%" width="49%" ></a>
 
+Image Downloaded from [GettyImages](https://www.gettyimages.in/detail/photo/multi-ethnic-business-people-working-together-in-royalty-free-image/468157896)
+
 ### Class `YoloV3`
 
 ```python
