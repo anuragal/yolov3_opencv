@@ -113,10 +113,7 @@ yolo_v3.show_image(img)
 
 ## Results
 
-### Input Image
+### Input & Annotated Image
 
-![](https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg)
-
-### Annotated Image
-
-![](https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg)
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="40%" width="40%" ></a>
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="40%" width="40%" ></a>
