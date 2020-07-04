@@ -17,6 +17,13 @@ ref: https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-pyt
 2. Download `coco.names` from [here](https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names)
 3. Download `yolov3.weights` from [here](https://pjreddie.com/media/files/yolov3.weights)
 
+## Results
+
+### Input & Annotated Image
+
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="50%" width="50%" ></a>
+<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="50%" width="50%" ></a>
+
 ### Class `YoloV3`
 
 ```python
@@ -110,10 +117,3 @@ img = yolo_v3.process_image("IMG.jpg")
 
 yolo_v3.show_image(img)
 ```
-
-## Results
-
-### Input & Annotated Image
-
-<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/IMG.jpg" height="40%" width="40%" ></a>
-<a href="url"><img src="https://github.com/anuragal/yolov3_opencv/blob/master/yolo_img_output.jpg" height="40%" width="40%" ></a>
